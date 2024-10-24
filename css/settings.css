@@ -46,7 +46,7 @@ body{
     background: #f0f0f0;
 }
 .wrapper {
-    max-width: 1190px;
+    max-width: 960px;
     overflow-x: hidden;
     margin: 0 auto 30px;
     position: relative;
@@ -58,7 +58,7 @@ body{
     background: white;
 }
 .content {
-       padding: 0 360px 0 0;
+
 }
 .sidebar {
     float: left;
